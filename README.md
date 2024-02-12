@@ -1,6 +1,6 @@
 # CALORIE-HEALTHAPP
 
-A Streamlit application that utilizes Gemini API for calorie estimation from food images, deployed on Hugging Face Spaces.
+A Streamlit application that utilizes Gemini API for calorie estimation from food images, deployed on Hugging Face.
 
 ## Try the App (CLICK ON THE PICTURE BELOW):
 
