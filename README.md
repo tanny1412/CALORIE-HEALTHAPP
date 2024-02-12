@@ -6,4 +6,4 @@ A Streamlit application that utilizes Gemini API for calorie estimation from foo
 
 Experience the app live on Hugging Face Spaces:
 
-[![Run on Hugging Face Spaces](images/pancake.jpeg)](https://huggingface.co/spaces/Tanny1412/CALORIE-HEALTHAPP)
+[![Run on Hugging Face Spaces](images/pancake.jpeg)](https://huggingface.co/spaces/Tanny1412/gemini-health-app)
